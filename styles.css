@@ -28,14 +28,23 @@ a:visited {
     color: #f1faee;
 }
 
-#rocket_parts_img {
-    height: 300px;
-    width: 400px;
+#ceaser-cipher-img {
+    height: 200px;
+    width: 300px;
 }
 
-#saturn-5-img {
-    height: 350px;
-    width: 300px
+#aristocrat-img {
+    height: 150px;
+    width: 300px;
+    padding: 20px;
+    border: 5px solid #E1CC83
+}
+
+#fractionated-img {
+    height: 150px;
+    width: 300px;
+    padding: 20px;
+    border: 5px solid #E1CC83
 }
 
 main {
@@ -48,19 +57,26 @@ main {
 
 .p-text {
     border: 2px solid #D19F35;
+    border-radius: 15px;
     padding: 10px;
 }
 
 #fun-fact {
     background-color: #D19F35;
-    color: #121212
+    color: #121212;
+    margin-bottom: 10px;
+    height: 40px;
+    border-radius: 20px;
 }
 
-.links {
-    color:#f1faee;
+#ASA-link {
+    width: 125px;
+    height: 125px;
+    color: black;
     padding: 8px;
-    border: 2px solid #1d3557;
-    background-color: #457b9d;
+    border: 5px solid #D19F35;
+    border-radius: 0;
+    background-color: #E1CC83;
 }
 
 footer {
