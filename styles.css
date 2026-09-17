@@ -1,0 +1,71 @@
+
+/*colors:
+    light shade: F5E7D4 - whiteish
+    light accent: 6CDC6C - green
+    main: E1CC83 - goldish
+    dark accent: D19F35 dark accent
+    dark shade: 121212 - black
+*/
+
+body {
+    background-color: #121212;
+    margin: 10px;
+    font-family:'Courier New', Courier, monospace;
+    color: #6CDC6C;
+}
+
+.title {
+    padding: 10px;
+    font-size: 50px;
+}
+
+
+a:hover{
+    opacity: 0.7;
+}
+
+a:visited {
+    color: #f1faee;
+}
+
+#rocket_parts_img {
+    height: 300px;
+    width: 400px;
+}
+
+#saturn-5-img {
+    height: 350px;
+    width: 300px
+}
+
+main {
+    padding: 10px;
+}
+
+.header {
+    margin-top: 50px;
+}
+
+.p-text {
+    border: 2px solid #D19F35;
+    padding: 10px;
+}
+
+#fun-fact {
+    background-color: #D19F35;
+    color: #121212
+}
+
+.links {
+    color:#f1faee;
+    padding: 8px;
+    border: 2px solid #1d3557;
+    background-color: #457b9d;
+}
+
+footer {
+    background-color: #121212;
+    margin: 10px;
+    font-family:'Courier New', Courier, monospace;
+    color: #6CDC6C;
+}
